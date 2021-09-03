@@ -16,3 +16,4 @@
 ![image](https://img.shields.io/badge/INTELLIJ-%233A5085.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![image](https://img.shields.io/badge/pycharm-%233A5085.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![image](https://img.shields.io/badge/Github-%233A5085.svg?&style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/GIT-%233A5085.svg?&style=for-the-badge&logo=git&logoColor=white)
