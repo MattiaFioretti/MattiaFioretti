@@ -7,6 +7,8 @@
 
 ![Senza nome](https://user-images.githubusercontent.com/84198050/131932251-e2fd6d7e-7546-4a1d-a0bb-8204d1f111ee.png)
 
+
+![image](https://img.shields.io/badge/Java-%23C69D5A.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![image](https://img.shields.io/badge/Python-%23905AC6.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Ubuntu-%2343853D.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
 ![image](https://img.shields.io/badge/Debian-%235EA5A4.svg?&style=for-the-badge&logo=debian&logoColor=white)
-![image](https://img.shields.io/badge/Java-%23C69D5A.svg?&style=for-the-badge&logo=Java&logoColor=white)
