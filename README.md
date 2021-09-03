@@ -9,7 +9,7 @@
 
 
 ![image](https://img.shields.io/badge/Java-%23DF7237.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![image](https://img.shields.io/badge/Python.svg?&style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Python-%23DF7237.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Maven-%2363BF44.svg?&style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ![image](https://img.shields.io/badge/Ubuntu-%2343853D.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
