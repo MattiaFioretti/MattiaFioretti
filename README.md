@@ -12,3 +12,5 @@
 ![image](https://img.shields.io/badge/Python-%23905AC6.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Ubuntu-%2343853D.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
 ![image](https://img.shields.io/badge/Debian-%235EA5A4.svg?&style=for-the-badge&logo=debian&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-%235AC690.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-%23C65A88.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
