@@ -9,4 +9,4 @@
 
 ![image](https://img.shields.io/badge/Ubuntu-%2343853D.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
 ![image](https://img.shields.io/badge/Debian-%235EA5A4.svg?&style=for-the-badge&logo=debian&logoColor=white)
-![image](https://img.shields.io/badge/Maven-%23C69D5A.svg?&style=for-the-badge&logo=maven&logoColor=white)
+![image](https://img.shields.io/badge/Java-%23C69D5A.svg?&style=for-the-badge&logo=Java&logoColor=white)
