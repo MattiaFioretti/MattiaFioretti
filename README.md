@@ -14,3 +14,5 @@
 ![image](https://img.shields.io/badge/Debian-%235EA5A4.svg?&style=for-the-badge&logo=debian&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-%235AC690.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-%23C65A88.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/sqlite-%23DF9D37.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+![image](https://img.shields.io/badge/Github-%23332D2D.svg?&style=for-the-badge&logo=github&logoColor=white)
