@@ -18,3 +18,5 @@
 ![image](https://img.shields.io/badge/MongoDB-%23C65A88.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/sqlite-%23DF9D37.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 ![image](https://img.shields.io/badge/Github-%23332D2D.svg?&style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/INTELLIJ-%23332D2D.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
+![image](https://img.shields.io/badge/pycharm-%23332D2D.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
