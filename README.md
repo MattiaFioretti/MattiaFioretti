@@ -18,5 +18,6 @@
 ![image](https://img.shields.io/badge/REDIS-%233A5085.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![image](https://img.shields.io/badge/RabbitMQ-%233A5085.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![image](https://img.shields.io/badge/pycharm-%233A5085.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
+![image](https://img.shields.io/badge/intellij-%233A5085.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![image](https://img.shields.io/badge/Github-%233A5085.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-%233A5085.svg?&style=for-the-badge&logo=git&logoColor=white)
