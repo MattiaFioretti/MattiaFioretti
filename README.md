@@ -5,7 +5,7 @@
 
 ## » 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:
 
-![image](https://img.shields.io/badge/Java-%233A5085.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![image](https://img.shields.io/badge/Java-%233A5085.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/Python-%233A5085.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Maven-%233A5085.svg?&style=for-the-badge&logo=apache-maven&logoColor=white)
 ![image](https://img.shields.io/badge/GRADLE-%233A5085.svg?&style=for-the-badge&logo=gradle&logoColor=white)
