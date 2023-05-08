@@ -8,6 +8,7 @@
 ![image](https://img.shields.io/badge/Java-%233A5085.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![image](https://img.shields.io/badge/Python-%233A5085.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Maven-%233A5085.svg?&style=for-the-badge&logo=apache-maven&logoColor=white)
+![image](https://img.shields.io/badge/GRADLE-%233A5085.svg?&style=for-the-badge&logo=gradle&logoColor=white)
 ![image](https://img.shields.io/badge/Ubuntu-%233A5085.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
 ![image](https://img.shields.io/badge/Debian-%233A5085.svg?&style=for-the-badge&logo=debian&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-%233A5085.svg?&style=for-the-badge&logo=mysql&logoColor=white)
