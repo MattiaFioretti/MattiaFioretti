@@ -1,7 +1,6 @@
 ## » 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛!
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiaFioretti&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaFioretti&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MattiaFioretti&theme=dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Wed)](https://git.io/streak-stats)
+
 
 ## » 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:
 
