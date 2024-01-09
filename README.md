@@ -1,5 +1,5 @@
 ## » 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛!
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiaFioretti&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaFioretti&theme=tokyonight)
 
