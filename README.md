@@ -1,5 +1,5 @@
 ## » 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛!
-[![GitHub Streak](https://streak-stats.demolab.com?user=MattiaFioretti&theme=dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Wed)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MattiaFioretti&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 ## » 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:
