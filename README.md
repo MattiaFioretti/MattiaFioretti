@@ -1,5 +1,7 @@
 ## » 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛!
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MattiaFioretti&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MattiaFioretti&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MattiaFioretti&theme=date_night&utcOffset=8)
 
 
 ## » 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:
